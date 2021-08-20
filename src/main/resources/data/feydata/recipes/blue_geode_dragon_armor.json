@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "wyrmroost:blue_geode_dragon_armor"
+  },
+  "result": "wyrmroost:blue_geode",
+  "count": 3,
+  "experience": 0.1,
+  "cookingtime": 100
+}

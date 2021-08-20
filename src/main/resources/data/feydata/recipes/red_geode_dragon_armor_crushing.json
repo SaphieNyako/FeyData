@@ -1,0 +1,30 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "wyrmroost:red_geode_dragon_armor"
+    }
+  ],
+  "results": [
+    {
+      "item": "wyrmroost:red_geode",
+      "count": 2
+    },
+    {
+      "item": "minecraft:leather",
+      "count": 2,
+      "chance": 0.5
+    },
+    {
+      "item": "wyrmroost:red_geode",
+      "count": 5,
+      "chance": 0.1
+    },
+    {
+      "item": "minecraft:string",
+      "count": 2,
+      "chance": 0.25
+    }
+  ],
+  "processingTime": 200
+}

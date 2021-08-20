@@ -1,0 +1,42 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT License"
+issueTrackerURL=""
+
+[[mods]]
+modId="feydata"
+version="${file.jarVersion}"
+displayName="FeyData"
+logoFile="../feywild_mod_logo.png"
+displayURL=""
+authors="SaphieNyako"
+description="Feywild Data Mod"
+
+[[dependencies.feydata]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36.1,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.feydata]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.feydata]]
+    modId="libx"
+    mandatory=true
+    versionRange="[1.16.3-1.0.76,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.feydata]]
+    modId="feywild"
+    mandatory=true
+    versionRange="[1.16.5-1.3.1,)"
+    ordering="NONE"
+    side="BOTH"
+

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "wyrmroost:platinum_dragon_armor"
+  },
+  "result": "wyrmroost:platinum_ingot",
+  "count": 3,
+  "experience": 0.1,
+  "cookingtime": 100
+}

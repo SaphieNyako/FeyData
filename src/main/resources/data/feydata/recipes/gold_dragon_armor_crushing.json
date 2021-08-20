@@ -1,0 +1,30 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "wyrmroost:gold_dragon_armor"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:gold_ingot",
+      "count": 2
+    },
+    {
+      "item": "minecraft:leather",
+      "count": 2,
+      "chance": 0.5
+    },
+    {
+      "item": "minecraft:gold_ingot",
+      "count": 5,
+      "chance": 0.1
+    },
+    {
+      "item": "minecraft:string",
+      "count": 2,
+      "chance": 0.25
+    }
+  ],
+  "processingTime": 200
+}
