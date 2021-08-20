@@ -1,0 +1,27 @@
+buildscript {
+    apply from: 'https://raw.githubusercontent.com/noeppi-noeppi/ModUtils/v2/buildscript.gradle', to: buildscript
+}
+
+apply from: 'https://raw.githubusercontent.com/noeppi-noeppi/ModUtils/v2/mod.gradle'
+
+apply plugin: 'io.github.noeppi_noeppi.tools.modgradle.cursedep'
+
+repositories {
+    maven { url = 'https://dl.cloudsmith.io/public/geckolib3/geckolib/maven/' }
+    maven { url = 'https://maven.blamejared.com' }
+    maven { url = 'https://dvs1.progwml6.com/files/maven/' }
+    maven { url = 'https://modmaven.k-4u.nl' }
+    maven { url = 'https://maven.melanx.de' }
+}
+
+dependencies {
+    annotationProcessor fg.deobf("io.github.noeppi_noeppi.mods:LibX:1.16.3-1.0.76")
+    implementation fg.deobf("io.github.noeppi_noeppi.mods:LibX:1.16.3-1.0.76")
+    
+    // Pull feywild dependency from CurseForge
+    implementation curse.mod(484377, 3427148)
+    
+    // Dependencies of feywild (runtime only)
+    runtimeOnly fg.deobf("software.bernie.geckolib:geckolib-forge-1.16.5:3.0.41")
+    runtimeOnly fg.deobf("vazkii.patchouli:Patchouli:1.16.4-51")
+}
