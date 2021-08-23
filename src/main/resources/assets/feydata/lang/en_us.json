@@ -6,12 +6,5 @@
   "message.feydata.schematics_dungeons_gear_artifacts": "Schematics for crafting dungeon gear artifacts",
   "message.feydata.schematics_dungeons_gear_armor": "Schematics for crafting dungeon gear armor",
   "message.feydata.itemmessage": "Hold \"%s\" for more information",
-  "itemGroup.feydataTab" : "Feywild ModPack Items",
-  "item.druidcraft.crushed_fiery_glass": "Crushed Fiery Glass",
-  "item.druidcraft.tempered_fiery_glass": "Tempered Fiery Glass",
-  "item.druidcraft.brightstone": "Bright Stone",
-  "item.druidcraft.blazing_steel": "Blazing Steel",
-  "item.druidcraft.heart_of_blaze": "Heart of Blaze",
-  "block.druidcraft.nether_fiery_glass_ore": "Fiery Glass Nether Ore",
-  "block.druidcraft.brightstone_ore": "Bright Stone Ore"
+  "itemGroup.feydataTab" : "Feywild ModPack Items"
 }
