@@ -22,6 +22,9 @@ public class ModItems {
     public static final RegistryObject<Item> SCHEMATICS_DUNGEONS_GEAR_ARMOR = ITEMS.register("schematics_dungeons_gear_armor",
             ()->new Schematics(new Item.Properties().tab(FeyDataMod.FEYDATA_TAB), new TranslationTextComponent("message.feydata.schematics_dungeons_gear_armor")));
 
+    public static final RegistryObject<Item> SCHEMATICS_RUNE_CRAFTING = ITEMS.register("schematics_rune_crafting",
+            ()->new Schematics(new Item.Properties().tab(FeyDataMod.FEYDATA_TAB), new TranslationTextComponent("message.feydata.schematics_rune_crafting")));
+
 
     public static void register(IEventBus eventBus){
         ITEMS.register(eventBus);

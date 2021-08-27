@@ -117,7 +117,7 @@ public class FeyDataMod {
     }
 
     private static void lootTableLoad(LootTableLoadEvent event) {
-        if (event.getName().equals(LootTables.ABANDONED_MINESHAFT)) {
+        if (event.getName().equals(LootTables.ABANDONED_MINESHAFT) || event.getName().equals(LootTables.BURIED_TREASURE) || event.getName().equals(LootTables.STRONGHOLD_LIBRARY)) {
             @Nullable
             LootPool pool = event.getTable().getPool("main");
             //noinspection ConstantConditions
@@ -125,6 +125,7 @@ public class FeyDataMod {
                 addEntry(pool, ItemLootEntry.lootTableItem(ModItems.SCHEMATICS_DUNGEONS_GEAR_ARMOR.get()).setWeight(5).build());
                 addEntry(pool, ItemLootEntry.lootTableItem(ModItems.SCHEMATICS_DUNGEONS_GEAR_ARTIFACTS.get()).setWeight(5).build());
                 addEntry(pool, ItemLootEntry.lootTableItem(ModItems.SCHEMATICS_DUNGEONS_GEAR_WEAPONS.get()).setWeight(5).build());
+                addEntry(pool, ItemLootEntry.lootTableItem(ModItems.SCHEMATICS_RUNE_CRAFTING.get()).setWeight(5).build());
             }
         }
     }
