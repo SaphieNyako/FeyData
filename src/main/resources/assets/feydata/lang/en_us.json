@@ -9,7 +9,10 @@
   "message.feydata.schematics_dungeons_gear_weapons": "Schematics for crafting dungeon gear weapons",
   "message.feydata.schematics_dungeons_gear_artifacts": "Schematics for crafting dungeon gear artifacts",
   "message.feydata.schematics_dungeons_gear_armor": "Schematics for crafting dungeon gear armor",
-  "message.feydata.schematics_rune_crafting": "Schematics for rune crafting",
+  "message.feydata.schematics_elemental_rune_crafting": "This book holds all the power and knowledge of elemental rune crafting",
+  "message.feydata.schematics_seasonal_rune_crafting": "This book holds all the power and knowledge of seasonal rune crafting",
+  "message.feydata.schematics_deadly_rune_crafting": "This book holds all the power and knowledge of deadly rune crafting",
+  "message.feydata.schematics_yggdrasil_rune_crafting": "This book holds all the power and knowledge of yggdrasil rune crafting",
   "message.feydata.itemmessage": "Hold \"%s\" for more information",
   "itemGroup.feydataTab" : "Feywild ModPack Items"
 }

@@ -19,7 +19,7 @@ dependencies {
     implementation fg.deobf("io.github.noeppi_noeppi.mods:LibX:1.16.3-1.0.76")
     
     // Pull feywild dependency from CurseForge
-    implementation curse.mod(484377, 3427148)
+    implementation curse.mod(484377, 3439899)
     
     // Dependencies of feywild (runtime only)
     runtimeOnly fg.deobf("software.bernie.geckolib:geckolib-forge-1.16.5:3.0.41")
