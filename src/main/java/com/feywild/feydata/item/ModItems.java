@@ -22,19 +22,6 @@ public class ModItems {
     public static final RegistryObject<Item> SCHEMATICS_DUNGEONS_GEAR_ARMOR = ITEMS.register("schematics_dungeons_gear_armor",
             ()->new Schematics(new Item.Properties().tab(FeyDataMod.FEYDATA_TAB), new TranslationTextComponent("message.feydata.schematics_dungeons_gear_armor")));
 
-    public static final RegistryObject<Item> SCHEMATICS_ELEMENTAL_RUNE_CRAFTING = ITEMS.register("schematics_elemental_rune_crafting",
-            ()->new Schematics(new Item.Properties().tab(FeyDataMod.FEYDATA_TAB), new TranslationTextComponent("message.feydata.schematics_elemental_rune_crafting")));
-
-    public static final RegistryObject<Item> SCHEMATICS_SEASONAL_RUNE_CRAFTING = ITEMS.register("schematics_seasonal_rune_crafting",
-            ()->new Schematics(new Item.Properties().tab(FeyDataMod.FEYDATA_TAB), new TranslationTextComponent("message.feydata.schematics_seasonal_rune_crafting")));
-
-    public static final RegistryObject<Item> SCHEMATICS_DEADLY_RUNE_CRAFTING = ITEMS.register("schematics_deadly_rune_crafting",
-            ()->new Schematics(new Item.Properties().tab(FeyDataMod.FEYDATA_TAB), new TranslationTextComponent("message.feydata.schematics_deadly_rune_crafting")));
-
-    public static final RegistryObject<Item> SCHEMATICS_YGGDRASIL_RUNE_CRAFTING = ITEMS.register("schematics_yggdrasil_rune_crafting",
-            ()->new Schematics(new Item.Properties().tab(FeyDataMod.FEYDATA_TAB), new TranslationTextComponent("message.feydata.schematics_yggdrasil_rune_crafting")));
-
-
     public static void register(IEventBus eventBus){
         ITEMS.register(eventBus);
     }
