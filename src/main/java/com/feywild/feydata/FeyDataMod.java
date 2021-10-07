@@ -1,5 +1,6 @@
 package com.feywild.feydata;
 
+import com.feywild.feydata.block.ModBlocks;
 import com.feywild.feydata.item.ModItems;
 import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;
@@ -53,6 +54,7 @@ public class FeyDataMod {
         IEventBus eventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
         ModItems.register(eventBus);
+        ModBlocks.register(eventBus);
 
         eventBus.addListener(this::setup);
         // Register the enqueueIMC method for modloading

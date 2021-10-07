@@ -10,16 +10,6 @@ public class KeyboardHelper {
 
     @OnlyIn(Dist.CLIENT)
     public static boolean isHoldingShift() {
-
-        return InputMappings.isKeyDown(Minecraft.getInstance().getWindow().getWindow(),
-                GLFW.GLFW_KEY_LEFT_SHIFT);
+        return InputMappings.isKeyDown(Minecraft.getInstance().getWindow().getWindow(), Minecraft.getInstance().options.keyShift.getKey().getValue());
     }
-
-    @OnlyIn(Dist.CLIENT)
-    public static boolean isHoldingCtrl() {
-
-        return InputMappings.isKeyDown(Minecraft.getInstance().getWindow().getWindow(),
-                GLFW.GLFW_KEY_LEFT_CONTROL);
-    }
-
 }

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "feydata:autumn_tree_fence",
+    "feydata:spring_tree_fence",
+    "feydata:summer_tree_fence",
+    "feydata:winter_tree_fence"
+  ]
+}

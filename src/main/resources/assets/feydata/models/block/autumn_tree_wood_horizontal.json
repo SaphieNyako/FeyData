@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "side": "feydata:block/autumn_tree_log",
+    "end": "feydata:block/autumn_tree_log"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "feydata:block/spring_tree_slab"
+    },
+    "type=double": {
+      "model": "feydata:block/spring_tree_wood"
+    },
+    "type=top": {
+      "model": "feydata:block/spring_tree_slab_top"
+    }
+  }
+}

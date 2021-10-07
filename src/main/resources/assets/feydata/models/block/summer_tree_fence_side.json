@@ -1,0 +1,6 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "feydata:block/summer_tree_log"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "feydata:block/summer_tree_log",
+    "top": "feydata:block/summer_tree_log",
+    "side": "feydata:block/summer_tree_log"
+  }
+}
