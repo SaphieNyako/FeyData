@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/slab_top",
-  "textures": {
-    "bottom": "feydata:block/spring_tree_log",
-    "top": "feydata:block/spring_tree_log",
-    "side": "feydata:block/spring_tree_log"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/stairs",
-  "textures": {
-    "bottom": "feydata:block/winter_tree_log",
-    "top": "feydata:block/winter_tree_log",
-    "side": "feydata:block/winter_tree_log"
-  }
-}
