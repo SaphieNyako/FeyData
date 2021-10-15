@@ -1,6 +1,9 @@
 package com.feywild.feydata;
 
 import com.feywild.feydata.item.ModItems;
+import com.feywild.feydata.quest.task.BiomeTask;
+import com.feywild.feydata.quest.task.StructureTask;
+import com.feywild.feywild.quest.task.TaskTypes;
 import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;
 import net.minecraft.item.ItemGroup;
@@ -9,6 +12,7 @@ import net.minecraft.loot.ItemLootEntry;
 import net.minecraft.loot.LootEntry;
 import net.minecraft.loot.LootPool;
 import net.minecraft.loot.LootTables;
+import net.minecraft.util.ResourceLocation;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.LootTableLoadEvent;
 import net.minecraftforge.event.RegistryEvent;
@@ -66,6 +70,10 @@ public class FeyDataMod {
 
         // Register ourselves for server and other game events we are interested in
         MinecraftForge.EVENT_BUS.register(this);
+
+        TaskTypes.register(new ResourceLocation(FeyDataMod.MOD_ID, "biome"), BiomeTask.INSTANCE);
+        TaskTypes.register(new ResourceLocation(FeyDataMod.MOD_ID, "biome"), StructureTask.INSTANCE);
+
     }
 
     private void setup(final FMLCommonSetupEvent event)
