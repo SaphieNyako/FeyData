@@ -1,7 +1,6 @@
 package com.feywild.feydata;
 
 import com.feywild.feydata.quest.task.BiomeTask;
-import com.feywild.feydata.quest.task.StructureTask;
 import com.feywild.feywild.quest.player.QuestData;
 import com.feywild.feywild.quest.task.ItemTask;
 import com.feywild.feywild.world.structure.ModStructures;
@@ -20,7 +19,7 @@ public class EventListener {
             //Quest Check for Biome
             player.getLevel().getBiomeName(player.blockPosition()).ifPresent(biome -> quests.checkComplete(BiomeTask.INSTANCE, biome.location()));
             //Quest Check for Structure
-           quests.checkComplete(StructureTask.INSTANCE, player.getLevel().structureFeatureManager().getStructureAt(player.blockPosition(), true, ModStructures.library).getFeature().getRegistryName());
+           // quests.checkComplete(StructureTask.INSTANCE, player.getLevel().structureFeatureManager().getStructureAt(player.blockPosition(), true, ModStructures.library).getFeature().getRegistryName());
         }
     }
 
