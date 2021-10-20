@@ -1,0 +1,30 @@
+{
+   
+    "name": "Overworld Drake",
+    "icon": "wyrmroost:iron_dragon_armor",
+    "category": "dragons",
+    "pages": [
+      {
+        "type": "text",
+        "text": "Overworld Drakes can be found munching away at grass in savanna and plains biomes. Get too close to one and it will roar. The roar has the effect of slowing players and mobs around it."
+      },
+      {
+        "type": "entity",
+        "entity": "wyrmroost:overworld_drake",
+        "scale": 0.8,
+        "offset": 0.15
+      },
+      {
+        "type": "spotlight",
+        "item": "minecraft:saddle",
+        "title": "Taming",
+        "text": "Overworld Drakes can be tamed like Horses, with a saddle. You need to keep mounting it until it is tamed. Every time it throws you off, there is a small cooldown before you can ride it again, making it just a bit more difficult to tame it."
+      },
+      {
+        "type": "spotlight",
+        "item": "minecraft:wheat",
+        "title": "Food",
+        "text": "You can keep Overworld Drakes on grass so they can eat and heal themselves. Though you can also feed them their favorite food to heal them."
+      }
+    ]
+  }

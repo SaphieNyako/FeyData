@@ -1,0 +1,25 @@
+{
+    "name": "Dragon Staff",
+    "icon": "wyrmroost:dragon_staff",
+    "category": "dragon_master_equipment",
+    "pages": [{
+        "type": "text",
+        "text": "Dragon Staves are important items that allow greater control over your tamed dragons. Right click a tamed dragon to reveal the options, like their status, naming your dragon and performing several commands."
+      },
+        {
+            "type": "crafting",
+            "title": "Dragon Staff",
+            "recipe": "wyrmroost:dragon_staff"
+        },
+         {
+            "type": "spotlight",
+            "item": "wyrmroost:red_geode_dragon_armor",
+            "title": "Dragon Armor",
+            "text": "With the Dragon Staff menu you can also equip your dragon with items such as Dragon armor. Not all dragons have the same options or the ability to carry items or armor."
+          },
+          {
+            "type": "text",
+            "text": "With the Dragon Staff you can also set a home position, so your will stay near the selected spot. If the dragon is capable of fighting, it will protect its selected spot from hostile mobs."
+          }
+    ]
+  }

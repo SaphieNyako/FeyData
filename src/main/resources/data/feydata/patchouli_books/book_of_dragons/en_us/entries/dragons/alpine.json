@@ -1,0 +1,35 @@
+{
+    "name": "Alpine",
+    "icon": "wyrmroost:diamond_dragon_armor",
+    "category": "dragons",
+    "pages": [
+      {
+        "type": "text",
+        "text": "These big-winged dragons can be found flying around and roaring at each other in mountain biomes. Tamed Alpine dragons can be mounted and are able to fly."
+      },
+      {
+        "type": "entity",
+        "entity": "wyrmroost:alpine",
+        "scale": 0.8,
+        "offset": 0.15
+      },
+      {
+        "type": "spotlight",
+        "item": "minecraft:bee_nest",
+        "title": "Taming",
+        "text": "They really love honey and pollen. a Bee carrying pollen wil be needed to tame them. Take the bee to the Alpine using a lead. Atfer devouring the sweet and protein-packed snack, the Alpine dragon will be yours. "
+      },
+      {
+        "type": "spotlight",
+        "item": "wyrmroost:dragon_staff",
+        "title": "Attack",
+        "text": "Players are able to command their Alpines to send a blast of wind at their foes."
+      }, 
+      {
+        "type": "spotlight",
+        "item": "minecraft:honeycomb",
+        "title": "Food",
+        "text": "Alpines can be healed with honey. So no more bee lives need to be sacrificed."
+      }
+    ]
+  }

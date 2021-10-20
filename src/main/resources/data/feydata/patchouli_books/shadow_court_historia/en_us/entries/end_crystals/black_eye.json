@@ -1,0 +1,19 @@
+{
+  "name": "Black Eye",
+  "icon": "endrem:black_eye",
+  "category": "end_crystals",
+  "sortnum": 5,
+  "pages": [
+
+    {
+      "type": "text",
+      "text": "The knight of the black eye possessed the power to of the ocean itself. After the war he sailed off into the great ocean and was never seen again."
+    },
+    {
+      "type": "spotlight",
+      "item": "endrem:black_eye",
+      "title": "Black Eye",
+      "text": "Location: Unknown"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Rogue Eye",
+  "icon": "endrem:rogue_eye",
+  "category": "end_crystals",
+  "sortnum": 4,
+  "pages": [
+
+    {
+      "type": "text",
+      "text": "The eye was embedded with the power of Agility and Stealth and its creator hid it deep in a jungle only to be retrieved by those with great agility. "
+    },
+    {
+      "type": "spotlight",
+      "item": "endrem:rogue_eye",
+      "title": "Rogue Eye",
+      "text": "Location: Jungle Temple"
+    }
+  ]
+}

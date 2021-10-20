@@ -1,0 +1,28 @@
+{
+  "name": "Enderman",
+  "icon": "minecraft:ender_pearl",
+  "category": "shadow_court",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The enderman are remnants of lost souls who lost their free will and sanity. Now their only purpose is to server their Queen. The enderman are able to travel between shadows and enter other dimensions. Stealing anything that they might deem worthy for their Queen."
+    },
+    {
+      "type": "entity",
+      "entity": "minecraft:enderman",
+      "offset": 0.2
+    },
+    {
+      "type": "spotlight",
+      "item": "minecraft:ender_pearl",
+      "title": "Ender Pearl",
+      "text": "A left over remnants of the lost soul of a ender man. These pearls are often used in magical rituals. They can also be used to travel, shortly moving from into the shadows to another location. Be careful not to get trapped in the shadows."
+    },
+    {
+      "type": "entity",
+      "entity": "minecraft:endermite",
+      "text": "Using a ender pearl might release creatures from the shadow. "
+    }
+  ]
+}

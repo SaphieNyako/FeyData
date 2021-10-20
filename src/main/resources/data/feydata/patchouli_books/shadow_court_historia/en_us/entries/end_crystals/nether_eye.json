@@ -1,0 +1,19 @@
+{
+  "name": "Nether Eye",
+  "icon": "endrem:nether_eye",
+  "category": "end_crystals",
+  "sortnum": 2,
+  "pages": [
+
+    {
+      "type": "text",
+      "text": "The knight protecting this eye, gained his power by making a contract with a demon. After the war the demon came to claim the Knights soul and took the eye to his own dimension."
+    },
+    {
+      "type": "spotlight",
+      "item": "endrem:nether_eye",
+      "title": "Nether Eye",
+      "text": "Location: Nether"
+    }
+  ]
+}

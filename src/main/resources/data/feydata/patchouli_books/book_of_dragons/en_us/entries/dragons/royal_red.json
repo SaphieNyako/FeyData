@@ -1,0 +1,29 @@
+{
+    "name": "Royal Red",
+    "icon": "wyrmroost:red_geode_dragon_armor",
+    "category": "dragons",
+    "pages": [
+      {
+        "type": "text",
+        "text": "Royal Red dragons can be found in mountain biomes, but are very rare. They are extremely hostile and are capable of setting whole biomes on fire. The males of this species of dragon are smaller, while the females are larger and have a brighter shade of red."
+      },
+      {
+        "type": "entity",
+        "entity": "wyrmroost:royal_red",
+        "scale": 0.8,
+        "offset": 0.15
+      },
+      {
+        "type": "spotlight",
+        "item": "wyrmroost:raw_common_meat",
+        "title": "Taming",
+        "text": "Taming these dragons is a challenge, as they'll try to maul you and roast you alive. To tame them, you require meat, but to feed it to them, you'll have to knock them out first. A short amount of time must pass after they are knocked out before you can feed them and hope they don't wake up! "
+      },
+      {
+        "type": "spotlight",
+        "item": "wyrmroost:dragon_staff",
+        "title": "Attack",
+        "text": "With a Royal Red on your side you will be able to wreak havoc on your foes and even take to the skies! Their roars will buff you with extra strength. You can command the dragon to breath fire and perform melee attacks."
+      }
+    ]
+  }

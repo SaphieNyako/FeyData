@@ -1,0 +1,30 @@
+{
+   
+    "name": "Canari Wyrven",
+    "icon": "wyrmroost:blue_geode_dragon_armor",
+    "category": "dragons",
+    "pages": [
+      {
+        "type": "text",
+        "text": "Canari Wyverns can be found in swamp biomes. When tamed you can carry three of them on your shoulders and head."
+      },
+      {
+        "type": "entity",
+        "entity": "wyrmroost:canari_wyvern",
+        "scale": 0.8,
+        "offset": 0.15
+      },
+      {
+        "type": "spotlight",
+        "item": "minecraft:sweet_berries",
+        "title": "Taming",
+        "text": "These little guys are a bit tricky to tame, as they often fly away or attack when approached. To tame them, you have to chase them for a bit, and hope that they don't fly away...when they have enough of getting chased, they'll treaten you. This is when they can be fed. Just don't make any sudden movements!"
+      },
+      {
+        "type": "spotlight",
+        "item": "minecraft:feather",
+        "title": "Shedding",
+        "text": "Canari Wyverns are able to pester foes by poisoning them. When resting they will sometimes shed their feathers."
+      }
+    ]
+  }

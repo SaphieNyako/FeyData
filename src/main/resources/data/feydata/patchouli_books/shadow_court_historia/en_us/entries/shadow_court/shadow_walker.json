@@ -1,0 +1,17 @@
+{
+  "name": "Shadow Walker",
+  "icon": "betterendforge:blackstone_lantern",
+  "category": "shadow_court",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Shadow Walkers like the Enderman walk through shadow. These changelings walk through the shadow of other living creatures, taking on their shadow image."
+    },
+    {
+      "type": "entity",
+      "entity": "betterendforge:shadow_walker",
+      "offset": 0.2
+    }
+    ]
+}

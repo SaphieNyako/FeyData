@@ -1,0 +1,31 @@
+{
+  "name": "End Castle",
+  "icon": "minecraft:writable_book",
+  "category": "historia",
+  "sortnum": 2,
+  "pages": [
+
+    {
+      "type": "text",
+      "text": "It was a prosperous time for the Light Court and they build a grand Castle to give light and protection to all who seek it. The castle was named 'Camelot' but to some it's know as the End Castle. It's location has been lost through the ages, and so have the Light Elves."
+    },
+    {
+      "type": "image",
+      "title": "End Castle",
+      "images": ["feydata:textures/patchouli_images/end_castle_book.png"],
+      "border": true
+    },
+    {
+      "type": "spotlight",
+      "item": "tombstone:lost_tablet",
+      "title": "Lost Tablet",
+      "text": "These tablets can be created with the magic of the Winter Court. They can tell the location of lost structures. "
+    },
+    {
+      "type": "spotlight",
+      "item": "minecraft:map",
+      "title": "Treasure maps",
+      "text": "Some Cartographers might know  the location of the End Castle or it's location has been sharded on a forgotten map."
+    }
+  ]
+}

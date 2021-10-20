@@ -1,0 +1,19 @@
+{
+  "name": "Wither Eye",
+  "icon": "endrem:wither_eye",
+  "category": "end_crystals",
+  "sortnum": 9,
+  "pages": [
+
+    {
+      "type": "text",
+      "text": "The Winter Seelie Knight gave the eye to one of his creations, the Wither. The Wither can only be summoned using some unknown necromancer ritual."
+    },
+    {
+      "type": "spotlight",
+      "item": "endrem:wither_eye",
+      "title": "Wither Eye",
+      "text": "Location: the Wither"
+    }
+  ]
+}

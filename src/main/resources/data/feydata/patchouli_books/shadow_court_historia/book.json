@@ -1,0 +1,10 @@
+{
+	"name": "History of the Shadow Court",
+	"landing_text": "Long ago there was a time where all the seasons where in harmony, this was the time of the Light Court and it's counter balance the Shadow Court.",
+	"version": 1,
+	"model": "feydata:shadow_court_historia",
+	"book_texture": "patchouli:textures/gui/book_gray.png",
+	"nameplate_color": "ffffff",
+	"progress_bar_color": "ffffff",
+	"dont_generate_book ": "true"
+}

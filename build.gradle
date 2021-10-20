@@ -11,6 +11,7 @@ repositories {
     maven { url = 'https://maven.blamejared.com' }
     maven { url = 'https://dvs1.progwml6.com/files/maven/' }
     maven { url = 'https://modmaven.k-4u.nl' }
+    maven { url = 'https://maven.theillusivec4.top/' }
     maven { url = 'https://maven.melanx.de' }
 }
 
@@ -19,9 +20,17 @@ dependencies {
     implementation fg.deobf("io.github.noeppi_noeppi.mods:LibX:1.16.3-1.0.76")
     
     // Pull feywild dependency from CurseForge
-    implementation curse.mod(484377, 3439899)
-    
+    implementation curse.mod(484377, 3496366)
+    implementation curse.mod(340333,3173775)    //wyrmroost
+   // implementation curse.mod(375088, 3057922)
+    implementation curse.mod(404183,3444367)    //end rem
+    implementation curse.mod(428877,3467948)    //better end
+    implementation curse.mod(243707,3462710)  //corail
+
     // Dependencies of feywild (runtime only)
     runtimeOnly fg.deobf("software.bernie.geckolib:geckolib-forge-1.16.5:3.0.41")
+    runtimeOnly fg.deobf("vazkii.patchouli:Patchouli:1.16.4-51")
+
+    compileOnly fg.deobf("vazkii.patchouli:Patchouli:1.16.4-51:api")
     runtimeOnly fg.deobf("vazkii.patchouli:Patchouli:1.16.4-51")
 }

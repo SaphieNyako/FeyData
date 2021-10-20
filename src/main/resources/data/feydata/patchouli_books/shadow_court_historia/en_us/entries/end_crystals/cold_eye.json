@@ -1,0 +1,19 @@
+{
+  "name": "Cold Eye",
+  "icon": "endrem:cold_eye",
+  "category": "end_crystals",
+  "sortnum": 3,
+  "pages": [
+
+    {
+      "type": "text",
+      "text": "The knight who created this Eye was a Iceologer. The Cold Eyes is considered one of the last artifacts left behind by the Iceologers before they all suddenly vanished from the world."
+    },
+    {
+      "type": "spotlight",
+      "item": "endrem:cold_eye",
+      "title": "Cold Eye",
+      "text": "Location: Unknown Igloo"
+    }
+  ]
+}

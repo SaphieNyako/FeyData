@@ -1,0 +1,24 @@
+{
+   
+    "name": "Silver Glider",
+    "icon": "wyrmroost:platinum_dragon_armor",
+    "category": "dragons",
+    "pages": [
+      {
+        "type": "text",
+        "text": "Silver Gliders can be found on beach biomes or near the water. Once tamed they are able to help players glide. You can put the Silver Glider on your head by clicking it with an empty hand. Place it back on the ground with shift click. "
+      },
+      {
+        "type": "entity",
+        "entity": "wyrmroost:silver_glider",
+        "scale": 0.8,
+        "offset": 0.15
+      },
+      {
+        "type": "spotlight",
+        "item": "minecraft:salmon",
+        "title": "Taming",
+        "text": "They are skittish and act like Ocelots when it comes to taming. They will try to run away from you until you find an opportunity to feed them raw salmon."
+      }
+    ]
+  }

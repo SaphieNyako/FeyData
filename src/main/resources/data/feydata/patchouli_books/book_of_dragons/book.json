@@ -1,0 +1,10 @@
+{
+	"name": "Book of Dragons",
+	"landing_text": "You picked up this book cause you want to tame your own dragon, or want to be a dragon hunter. ",
+	"version": 1,
+	"model": "feydata:book_of_dragons",
+	"book_texture": "patchouli:textures/gui/book_green.png",
+	"nameplate_color": "ffffff",
+	"progress_bar_color": "ffffff",
+	"dont_generate_book ": "true"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Lesser Desertwyrm",
+    "icon": "wyrmroost:desert_wyrm",
+    "category": "dragons",
+    "pages": [
+      {
+        "type": "text",
+        "text": "Lesser Desertwyrms are found buried in the desert biomes, where they stick their head out to nip on small mobs."
+      },
+      {
+        "type": "entity",
+        "entity": "wyrmroost:lesser_desertwyrm",
+        "scale": 0.8,
+        "offset": 0.15
+      },
+      {
+        "type": "spotlight",
+        "item": "wyrmroost:desert_wyrm",
+        "title": "Taming",
+        "text": "Players can pick them up and place them somewhere else."
+      },
+      {
+        "type": "spotlight",
+        "item": "wyrmroost:cooked_desertwyrm",
+        "title": "Emergency Food",
+        "text": "You can also cook and eat the desert wyrm, but it's a aquired taste."
+      }
+    ]
+  }

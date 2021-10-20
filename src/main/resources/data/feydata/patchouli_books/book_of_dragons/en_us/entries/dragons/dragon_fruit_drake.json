@@ -1,0 +1,24 @@
+{
+   
+    "name": "Dragonfruit Drake",
+    "icon": "wyrmroost:red_geode_dragon_armor",
+    "category": "dragons",
+    "pages": [
+      {
+        "type": "text",
+        "text": "These fruity dragons can be found taking frequent naps in jungle biomes. Dragonfruit drakes aren't very fast mounts, and they aren't the best of fighters, but they can be used to clear away plants in an area with one bite!"
+      },
+      {
+        "type": "entity",
+        "entity": "wyrmroost:dragon_fruit_drake",
+        "scale": 0.8,
+        "offset": 0.15
+      },
+      {
+        "type": "spotlight",
+        "item": "minecraft:apple",
+        "title": "Taming",
+        "text": "Only baby dragonfruit drakes can be tamed. The babies are green but will eventually grow up and get their adult colors. You can tame them with apples."
+      }
+    ]
+  }

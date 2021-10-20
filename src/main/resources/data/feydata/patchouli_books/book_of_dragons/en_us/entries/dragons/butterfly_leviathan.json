@@ -1,0 +1,35 @@
+{
+    "name": "Butterfly Leviathan",
+    "icon": "wyrmroost:purple_geode_dragon_armor",
+    "category": "dragons",
+    "pages": [
+      {
+        "type": "text",
+        "text": "These apex predators can be found relentlessly preying on mobs in ocean biomes. When tamed they make great water mounts and are incredibly fast in the water."
+      },
+      {
+        "type": "entity",
+        "entity": "wyrmroost:butterfly_leviathan",
+        "scale": 0.8,
+        "offset": 0.15
+      },
+      {
+        "type": "spotlight",
+        "item": "wyrmroost:raw_common_meat",
+        "title": "Taming",
+        "text": "In order to tame them you first need to lure them in onto land. Once they are beached you need to feed them some meat, but they'll only accept the offering after they unleash their lightning attack. They can only use their lightning attack when they are wet."
+      },
+      {
+        "type": "spotlight",
+        "item": "wyrmroost:dragon_staff",
+        "title": "Attack",
+        "text": "You can command them to unleash a lightning bolt, but it does have a cooldown. You can also command them to chomp away at enemies."
+      }, 
+      {
+        "type": "spotlight",
+        "item": "minecraft:conduit",
+        "title": "Conduit",
+        "text": "With the dragon staff you can also equip the Leviathan with a conduit. With the conduit the butterlfy leviathan will act as a portable conduit"
+      }
+    ]
+  }

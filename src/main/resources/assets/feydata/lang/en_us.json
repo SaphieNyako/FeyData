@@ -6,13 +6,31 @@
   "item.feydata.schematics_seasonal_rune_crafting": "Schematic for Seasonal Rune Crafting",
   "item.feydata.schematics_deadly_rune_crafting": "Schematic for Deadly Sin Rune Crafting",
   "item.feydata.schematics_yggdrasil_rune_crafting": "Schematic for Yggdrasil Rune Crafting",
+  "item.feydata.book_of_dragons": "Book of Dragons",
+  "item.feydata.shadow_court_historia": "Shadow Court Historia",
   "message.feydata.schematics_dungeons_gear_weapons": "Schematics for crafting dungeon gear weapons",
   "message.feydata.schematics_dungeons_gear_artifacts": "Schematics for crafting dungeon gear artifacts",
   "message.feydata.schematics_dungeons_gear_armor": "Schematics for crafting dungeon gear armor",
   "message.feydata.schematics_elemental_rune_crafting": "This book holds all the power and knowledge of elemental rune crafting",
-  "message.feydata.schematics_seasonal_rune_crafting": "This book holds all the power and knowledge of seasonal rune crafting",
+  "message.feydata.schematics_seasonal_rune_crafting": "This book holds all the power and knowledge of seasonal rune crafting",eye
   "message.feydata.schematics_deadly_rune_crafting": "This book holds all the power and knowledge of deadly rune crafting",
   "message.feydata.schematics_yggdrasil_rune_crafting": "This book holds all the power and knowledge of yggdrasil rune crafting",
   "message.feydata.itemmessage": "Hold \"%s\" for more information",
-  "itemGroup.feydataTab" : "Feywild ModPack Items"
+  "message.feydata.book_of_dragons": "You picked up this book cause you want to tame your own dragon, or want to be a dragon hunter.",
+  "message.feydata.shadow_court_historia": "Long ago there was a time where all the seasons where in harmony, this was the time of the Light Court and it's counter balance the Shadow Court",
+  "itemGroup.feydataTab" : "Feywild ModPack Items",
+
+
+  "item.endrem.old_eye.description": "This eye was created by a wised and oldest of the Knights, a geomancer. The geomancer could channel energy from the earth, and was strongest in the desert.",
+  "item.endrem.rogue_eye.description": "The eye was embedded with the power of Agility and Stealth and its creator hid it deep in a jungle only to be retrieved by those with great agility.",
+  "item.endrem.nether_eye.description": "The knight protecting this eye, gained his power by making a contract with a demon. After the war the demon came to claim the Knights soul and took the eye to his own dimension.",
+  "item.endrem.cold_eye.description": "One of the last artifacts left behind by the Iceologers before they all suddenly vanished from the world",
+  "item.endrem.magical_eye.description": "The magical eye contained the greatest magic know to the Feywild. After the war many wanted the eye's power and many wizards and evokers fought over it.",
+  "item.endrem.black_eye.description": "The knight of the black eye possessed the power to of the ocean itself. After the war he sailed off into the great ocean and was never seen again.",
+  "item.endrem.lost_eye.description": "After the war this eye was given to the Dwarves. It was theirs to protect, but over time it was forgotten and lost and never found again.",
+  "item.endrem.wither_eye.description": "The Winter Seelie Knight gave the eye to one of his creations, the Wither. The Wither can only be summoned using some unknown necromancer ritual.",
+  "item.endrem.guardian_eye.description": "It has seen many warriors drown into the depths of the sea",
+   "item.endrem.end_crystal_eye.description": "It is believed to hold a fragment of the Enderdragon Soul",
+  "item.endrem.corrupted_eye.description": "Legend says it will bring infinite fortune to its owner",
+  "item.endrem.witch_eye.description": "Somewhere in history this eye was taken by a witch, passing it's power on from generation to generation."
 }

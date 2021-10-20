@@ -1,0 +1,24 @@
+{
+    "name": "Geodes",
+    "icon": "wyrmroost:blue_geode",
+    "category": "dragon_master_equipment",
+    "pages": [{
+        "type": "spotlight",
+        "item": "wyrmroost:blue_geode",
+        "title": "Geodes",
+        "text": "Special armor can be crafted with Geodes, wich are found in the Overworld..."  
+      },
+      {
+        "type": "spotlight",
+        "item": "wyrmroost:red_geode",
+        "title": "Geodes",
+        "text": "the Nether..."  
+      },
+      {
+        "type": "spotlight",
+        "item": "wyrmroost:purple_geode",
+        "title": "Geodes",
+        "text": "...the End."  
+      }
+    ]
+  }

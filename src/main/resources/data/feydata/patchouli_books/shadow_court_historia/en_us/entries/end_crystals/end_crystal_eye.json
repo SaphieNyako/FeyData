@@ -1,0 +1,19 @@
+{
+  "name": "End Crystal Eye",
+  "icon": "endrem:end_crystal_eye",
+  "category": "end_crystals",
+  "sortnum": 11,
+  "pages": [
+
+    {
+      "type": "text",
+      "text": "This eye was destroyed after the war, and it would require to be re-crafted. The knowledge of the crafting recipe remained over the ages, how to procure the materials was not."
+    },
+    {
+      "type": "crafting",
+      "title": "End Crystal Eye",
+      "recipe": "endrem:end_crystal_eye",
+      "text": "Location of materials: unknown"
+    }
+  ]
+}

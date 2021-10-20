@@ -1,0 +1,19 @@
+{
+  "name": "Enderman",
+  "icon": "minecraft:dragon_head",
+  "category": "shadow_court",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Morgan le Fey besieged the aid of the Dragon King during the great war. The Dragon King was mislead and betrayed the pack with the Light Fey. As all of the shadow court was locked up in the End, so was the shadow of the once great Dragon King."
+    },
+    {
+      "type": "entity",
+      "entity": "minecraft:ender_dragon",
+      "scale": 2,
+      "offset": -0.8
+
+    }
+  ]
+}

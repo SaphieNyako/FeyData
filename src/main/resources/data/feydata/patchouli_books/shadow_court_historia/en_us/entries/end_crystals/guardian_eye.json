@@ -1,0 +1,25 @@
+{
+  "name": "Guardian Eye",
+  "icon": "endrem:guardian_eye",
+  "category": "end_crystals",
+  "sortnum": 10,
+  "pages": [
+
+    {
+      "type": "text",
+      "text": "One knight was a member of the ancient merfolk, and took the eye to be guarded by a feared underwater creature, known as the Elder Guardian. Earning it's name since that day, It has seen many warriors drown into the depths of the sea try to reclaim it."
+    },
+    {
+      "type": "spotlight",
+      "item": "endrem:cold_eye",
+      "title": "Cold Eye",
+      "text": "Location: Elder Guardian"
+    },
+    {
+      "type": "spotlight",
+      "item": "minecraft:map",
+      "title": "Treasure maps",
+      "text": "Some Cartographers might know  the location of the ancient merfolk temples."
+    }
+  ]
+}

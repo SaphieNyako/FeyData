@@ -1,0 +1,19 @@
+{
+  "name": "Magical Eye",
+  "icon": "endrem:magical_eye",
+  "category": "end_crystals",
+  "sortnum": 6,
+  "pages": [
+
+    {
+      "type": "text",
+      "text": "The magical eye contained the greatest magic know to the Feywild. After the war many wanted the eye's power and many wizards and evokers fought over it."
+    },
+    {
+      "type": "spotlight",
+      "item": "endrem:magical_eye",
+      "title": "magical Eye",
+      "text": "Location: In possession of a power evoker."
+    }
+  ]
+}

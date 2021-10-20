@@ -1,0 +1,19 @@
+{
+  "name": "Old Eye",
+  "icon": "endrem:old_eye",
+  "category": "end_crystals",
+  "sortnum": 1,
+  "pages": [
+
+    {
+      "type": "text",
+      "text": "This eye was created by a wised and oldest of the Knights, a geomancer. The geomancer could channel energy from the earth, and was strongest in the desert. After the war he hid the eye in a desert temple, protected by booby-traps."
+    },
+    {
+      "type": "spotlight",
+      "item": "endrem:old_eye",
+      "title": "Old Eye",
+      "text": "Location: Desert Temple"
+    }
+  ]
+}

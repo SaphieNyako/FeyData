@@ -1,0 +1,19 @@
+{
+  "name": "Lost Eye",
+  "icon": "endrem:lost_eye",
+  "category": "end_crystals",
+  "sortnum": 7,
+  "pages": [
+
+    {
+      "type": "text",
+      "text": "After the war this eye was given to the Dwarves. It was theirs to protect, but over time it was forgotten and lost and never found again."
+    },
+    {
+      "type": "spotlight",
+      "item": "endrem:lost_eye",
+      "title": "Lost Eye",
+      "text": "Location: Unknown Dwarven mines."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Vex",
+  "icon": "minecraft:vex_spawn_egg",
+  "category": "shadow_court",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Vex where ones Light Fey, lured to the shadows by Morgan le Fey during the great War."
+    },
+    {
+      "type": "entity",
+      "entity": "minecraft:vex"
+    },
+    {
+      "type": "entity",
+      "entity": "minecraft:evoker",
+      "text": " Now the Vex serve the Shadows and their Queen and anyone who would make a contract with shadows."
+    }
+  ]
+}

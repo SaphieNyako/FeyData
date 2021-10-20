@@ -1,0 +1,19 @@
+{
+  "name": "Witch Eye",
+  "icon": "endrem:witch_eye",
+  "category": "end_crystals",
+  "sortnum": 12,
+  "pages": [
+
+    {
+      "type": "text",
+      "text": "Somewhere in history this eye was taken by a witch, passing it's power on from generation to generation. The 'Witch Eye' as they call it now, is still in possession of one of the Witch families."
+    },
+    {
+      "type": "spotlight",
+      "item": "endrem:witch_eye",
+      "title": "Witch Eye",
+      "text": "Location: one of the Witch Houses"
+    }
+  ]
+}

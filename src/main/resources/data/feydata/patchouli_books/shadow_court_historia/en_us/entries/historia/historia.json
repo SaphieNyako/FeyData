@@ -1,0 +1,36 @@
+{
+  "name": "Historia",
+  "icon": "minecraft:writable_book",
+  "category": "historia",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Long ago there was a time where all the seasons where in harmony, this was the time of the Light Court. A Seelie Court of happiness and laughter, of light and hope, ruled by a King and his legendary Seelie Knights."
+    },
+    {
+      "type": "text",
+      "text": "It was a prosperous time for the Light Court and they build a grand Castle to give light and protection to all who seek it. The castle was named 'Camelot' but to some it's know as the End Castle. It's location has been lost through the ages, and so have the Light Elves."
+    },
+    {
+      "type": "text",
+      "text": "as the seasons and life, everything requires a counter balance. And thus the Unseelie Shadow Court came to be. The Unseelie court was a mirror opposite of the Seelie Court; where the latter was a place of laughter and friendship, the Unseelie court was a place of hatred, enslavement, and death."
+    },
+    {
+      "type": "text",
+      "text": "Ruled by Queen Morgana, also know as Morgan le Fey. Morgana wanted nothing more but bring darkness and shadow. Thou unwanted, a necessity to bring balance back into the world. Without death you would not appreciate life."
+    },
+    {
+      "type": "text",
+      "text": "The great war broke out, the likes the Feywild had never seen. For Eons the seasons where in dissary, and light and dark fought for dominance. Eventually the Knights of the Light Court each gave up their own magic to create the End Crystals."
+    },
+    {
+      "type": "text",
+      "text": "With these end Crystals they locked the Unseelie Court behind the vail of the Void. It was the 'end' of the great war, and those the great darkness where the Shadow Court now resides is called 'the End'."
+    },
+    {
+      "type": "text",
+      "text": "The Light Court got devided after the war, and each season took their leave, and some of the seelie moved to the stars. The Elytra, the mantle of the Light Court was  taken by the Summer Court. The claimed it's rights and proclaimed themselves the strongest Court and took it upon themselves to protect the Feywild. "
+    }
+  ]
+}

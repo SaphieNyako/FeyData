@@ -1,0 +1,30 @@
+{
+   
+    "name": "Roost Stalker",
+    "icon": "wyrmroost:gold_dragon_armor",
+    "category": "dragons",
+    "pages": [
+      {
+        "type": "text",
+        "text": "These small, six-legged dragons spawn in groups and are found in several biomes. Attack one Roost Stalker, and the whole group of them will turn hostile. Look out: If given the chance, Roost Stalkers will steal items out of chests."
+      },
+      {
+        "type": "entity",
+        "entity": "wyrmroost:roost_stalker",
+        "scale": 0.8,
+        "offset": 0.15
+      },
+      {
+        "type": "spotlight",
+        "item": "minecraft:egg",
+        "title": "Taming",
+        "text": "They love eggs and can be tamed with them. If empty handed you can put the Roost Stalker on your head."
+      },
+      {
+        "type": "spotlight",
+        "item": "minecraft:chicken",
+        "title": "Food",
+        "text": "You can give them items to hold. They heal by chewing on meat. They can also be given swords to increase damage."
+      }
+    ]
+  }

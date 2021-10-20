@@ -1,0 +1,25 @@
+{
+  "name": "End Portal",
+  "icon": "minecraft:end_portal_frame",
+  "category": "historia",
+  "sortnum": 3,
+  "pages": [
+
+    {
+      "type": "text",
+      "text": "The End Portal was used to transport all of the Shadow Court into the End. It now is considered as a way to teleport to the end if needed. The only way to open the End Portal is to find its location and open it with the end Crystals."
+    }    ,
+    {
+      "type": "image",
+      "title": "End Portal",
+      "images": ["feydata:textures/patchouli_images/end_portal_book.png"],
+      "border": true
+    },
+    {
+      "type": "crafting",
+      "title": "Ender Eyes",
+      "recipe": "minecraft:ender_eye",
+      "text": "You can use the the ender pearls to create 'ender eyes' they can sense where the energy of the end, is leaking into our world!"
+    }
+  ]
+}

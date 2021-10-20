@@ -1,0 +1,19 @@
+{
+  "name": "Corrupted Eye",
+  "icon": "endrem:corrupted_eye",
+  "category": "end_crystals",
+  "sortnum": 8,
+  "pages": [
+
+    {
+      "type": "text",
+      "text": "Owned by a Spring Seelie Knight, it's legend has it will bring infinite fortune to it's owner. Over time it's appeal corrupted many greedy king and pillagers have fought over it's possession."
+    },
+    {
+      "type": "spotlight",
+      "item": "endrem:corrupted_eye",
+      "title": "Corrupted Eye",
+      "text": "Location: Pillager Stronghold"
+    }
+  ]
+}

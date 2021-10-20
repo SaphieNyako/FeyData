@@ -40,3 +40,24 @@ description="Feywild Data Mod"
     ordering="NONE"
     side="BOTH"
 
+[[dependencies.feydata]]
+    modId="wyrmroost"
+    mandatory=true
+    versionRange="[1.16.3-1.2.11,)"
+    ordering="NONE"
+    side="BOTH"
+
+
+[[dependencies.feydata]]
+    modId="betterendforge"
+    mandatory=true
+    versionRange="[1.16.5-1.6.3,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.feydata]]
+    modId="endrem"
+    mandatory=true
+    versionRange="[forge-R4.1.1,)"
+    ordering="NONE"
+    side="BOTH"
