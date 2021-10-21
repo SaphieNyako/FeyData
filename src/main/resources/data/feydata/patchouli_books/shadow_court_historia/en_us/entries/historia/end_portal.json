@@ -16,10 +16,10 @@
       "border": true
     },
     {
-      "type": "crafting",
-      "title": "Ender Eyes",
-      "recipe": "minecraft:ender_eye",
-      "text": "You can use the the ender pearls to create 'ender eyes' they can sense where the energy of the end, is leaking into our world!"
+      "type": "spotlight",
+      "item": "endrem:black_eye",
+      "title": "End Crystals",
+      "text": "There are twelve End Crystals, each can sense where the energy of the end is leaking into our world! By right clicking it will go into the direction of the End Portal."
     }
   ]
 }
