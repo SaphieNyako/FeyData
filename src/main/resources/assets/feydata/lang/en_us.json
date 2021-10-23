@@ -20,7 +20,6 @@
   "message.feydata.shadow_court_historia": "Long ago there was a time where all the seasons where in harmony, this was the time of the Light Court and it's counter balance the Shadow Court",
   "itemGroup.feydataTab" : "Feywild ModPack Items",
 
-
   "item.endrem.old_eye.description": "This eye was created by a wised and oldest of the Knights, a geomancer. The geomancer could channel energy from the earth, and was strongest in the desert.",
   "item.endrem.rogue_eye.description": "The eye was embedded with the power of Agility and Stealth and its creator hid it deep in a jungle only to be retrieved by those with great agility.",
   "item.endrem.nether_eye.description": "The knight protecting this eye, gained his power by making a contract with a demon. After the war the demon came to claim the Knights soul and took the eye to his own dimension.",
@@ -32,5 +31,10 @@
   "item.endrem.guardian_eye.description": "It has seen many warriors drown into the depths of the sea",
   "item.endrem.end_crystal_eye.description": "It is believed to hold a fragment of the Enderdragon Soul",
   "item.endrem.corrupted_eye.description": "Legend says it will bring infinite fortune to its owner",
-  "item.endrem.witch_eye.description": "Somewhere in history this eye was taken by a witch, passing it's power on from generation to generation."
+  "item.endrem.witch_eye.description": "Somewhere in history this eye was taken by a witch, passing it's power on from generation to generation.",
+
+  "advancements.feydata.find_end_castle.title": "A Mysterious Feather",
+  "advancements.feydata.find_end_castle.description": "You found the End Castle! At your arrival a mysterious feather appeared in your inventory.",
+  "message.feydata.fey_feather": "This feather mysteriously appeared in your inventory. It looks like a feather of an Angel....it must have mystical properties.",
+  "item.feydata.fey_feather": "Mysterious Fey Feather"
 }

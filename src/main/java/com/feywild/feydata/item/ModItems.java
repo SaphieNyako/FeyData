@@ -1,7 +1,10 @@
 package com.feywild.feydata.item;
 
 import com.feywild.feydata.FeyDataMod;
+import net.minecraft.item.Food;
 import net.minecraft.item.Item;
+import net.minecraft.potion.EffectInstance;
+import net.minecraft.potion.Effects;
 import net.minecraft.util.text.TranslationTextComponent;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.RegistryObject;
@@ -28,6 +31,8 @@ public class ModItems {
     public static final RegistryObject<Item> SHADOW_COURT_HISTORIA = ITEMS.register("shadow_court_historia",
             ()-> new ShadowCourtHistoria(new Item.Properties().tab(FeyDataMod.FEYDATA_TAB)));
 
+    public static final RegistryObject<Item> FEY_FEATHER = ITEMS.register("fey_feather",
+            () -> new FeyFeather(new Item.Properties().tab(FeyDataMod.FEYDATA_TAB)));
 
     public static void register(IEventBus eventBus){
         ITEMS.register(eventBus);

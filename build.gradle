@@ -20,7 +20,7 @@ dependencies {
     implementation fg.deobf("io.github.noeppi_noeppi.mods:LibX:1.16.3-1.0.76")
     
     // Pull feywild dependency from CurseForge
-    implementation curse.mod(484377, 3496366)
+    implementation curse.mod(484377, 3501369)
     implementation curse.mod(340333,3173775)    //wyrmroost
    // implementation curse.mod(375088, 3057922)
     implementation curse.mod(404183,3444367)    //end rem
