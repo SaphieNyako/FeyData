@@ -34,6 +34,9 @@ public class ModItems {
     public static final RegistryObject<Item> FEY_FEATHER = ITEMS.register("fey_feather",
             () -> new FeyFeather(new Item.Properties().tab(FeyDataMod.FEYDATA_TAB)));
 
+    public static final RegistryObject<Item> SOUL_REAPER_LANTERN = ITEMS.register("soul_reaper_lantern",
+            () -> new SoulReaperLantern(new Item.Properties().tab(FeyDataMod.FEYDATA_TAB)));
+
     public static void register(IEventBus eventBus){
         ITEMS.register(eventBus);
     }
